@@ -5,6 +5,9 @@
 
 name: Main CI
 
+defaults:
+  run:
+    working-directory: packages/supabase_flutter_generator
 on:
   push:
     branches: [ "main" ]
