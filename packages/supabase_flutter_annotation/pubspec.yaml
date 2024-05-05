@@ -1,6 +1,7 @@
-name: supabase_flutter_generator
+name: supabase_flutter_annotation
 description: "A new Flutter project."
-version: 0.0.2
+version: 0.0.1
+homepage:
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
