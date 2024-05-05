@@ -1,1 +1,1 @@
-[README](packages/supabase_flutter_generator/README.md)
+packages/supabase_flutter_generator/README.md
